@@ -1,0 +1,352 @@
+1
+00:00:03,088 --> 00:00:08,917
+<i>Los sueños son mensajes
+desde las profundidades.</i>
+
+2
+00:00:52,590 --> 00:00:56,427
+<i>Mi planeta, Arrakis, es tan hermoso
+cuando el Sol está bajo.</i>
+
+3
+00:00:59,430 --> 00:01:01,950
+<i>Rodando sobre las arenas...</i>
+
+4
+00:01:02,050 --> 00:01:04,801
+<i>puedes ver especias en el aire.</i>
+
+5
+00:01:16,850 --> 00:01:20,281
+<i>Al anochecer, los recolectores
+de especias aterrizan.</i>
+
+6
+00:01:21,790 --> 00:01:26,381
+<i>Los forasteros corren contrarreloj
+para evitar el calor del día.</i>
+
+7
+00:01:34,910 --> 00:01:38,630
+<i>Asolan nuestras tierras
+delante de nuestros ojos.</i>
+
+8
+00:01:38,730 --> 00:01:42,201
+<i>Su crueldad con mi gente,
+es todo lo que he conocido.</i>
+
+9
+00:01:46,910 --> 00:01:51,301
+<i>Estos forasteros, los Harkonnen,
+llegaron mucho antes de que yo naciera.</i>
+
+10
+00:01:51,450 --> 00:01:55,041
+<i>Al controlar la producción de especias,
+se hicieron obscenamente ricos.</i>
+
+11
+00:01:55,290 --> 00:01:57,961
+<i>Más ricos que el
+propio Emperador.</i>
+
+12
+00:02:37,830 --> 00:02:40,990
+<i>Nuestros guerreros no pudieron
+liberar a Arrakis de los Harkonnen,</i>
+
+13
+00:02:41,090 --> 00:02:45,241
+<i>pero un día,
+por decreto imperial, sólo se fueron.</i>
+
+14
+00:02:52,170 --> 00:02:54,664
+<i>¿Por qué el Emperador
+eligió este camino?</i>
+
+15
+00:02:55,721 --> 00:02:57,981
+<i>¿Y quiénes serán nuestros
+próximos opresores?</i>
+
+16
+00:02:59,557 --> 00:03:03,546
+<i><b>DUNE
+PRIMERA PARTE</b></i>
+
+17
+00:03:31,610 --> 00:03:34,081
+<i>AÑO 10191</i>
+
+18
+00:03:36,010 --> 00:03:42,041
+<i>CALADAN
+MUNDO NATAL DE LA CASA ATREIDES</i>
+
+19
+00:03:47,370 --> 00:03:49,641
+Es bueno que te
+levantes temprano.
+
+20
+00:03:50,390 --> 00:03:53,221
+Tu padre quiere que te vistas de gala, antes de
+que llegue el heraldo del Emperador.
+
+21
+00:03:53,810 --> 00:03:57,601
+¿Ropa de gala?
+¿Militar?
+
+22
+00:03:57,950 --> 00:04:00,221
+Ceremonial.
+
+23
+00:04:00,370 --> 00:04:04,030
+¿Por qué tenemos que pasar por
+todo esto, si ya está decidido?
+
+24
+00:04:04,130 --> 00:04:05,561
+Es la ceremonia.
+
+25
+00:04:08,210 --> 00:04:09,561
+Gracias.
+
+26
+00:04:10,410 --> 00:04:13,001
+Si la quieres, haz que te la dé.
+
+27
+00:04:13,970 --> 00:04:17,681
+- Usa La Voz.
+- Mamá, me acabo de despertar.
+
+28
+00:04:24,450 --> 00:04:28,721
+- Dame el agua.
+- El vaso no puede oírte. Ordéname a mí.
+
+29
+00:04:55,050 --> 00:04:56,521
+<i>Dame el agua.</i>
+
+30
+00:05:08,710 --> 00:05:11,421
+- Casi.
+- ¿Casi?
+
+31
+00:05:11,570 --> 00:05:14,830
+Las habilidades de la Bene Gesserit
+tardan años en aprenderse, Paul.
+
+32
+00:05:14,930 --> 00:05:18,361
+Pareces cansado.
+¿Más sueños?
+
+33
+00:05:24,010 --> 00:05:25,441
+No.
+
+34
+00:05:27,890 --> 00:05:31,050
+<i>Temperaturas extremas y fenómenos
+meteorológicos traicioneros...</i>
+
+35
+00:05:31,150 --> 00:05:34,701
+<i>hacen que la vida fuera de las ciudades
+de Arrakis, sea realmente hostil.</i>
+
+36
+00:05:35,050 --> 00:05:38,490
+<i>Con tormentas de arena lo suficientemente
+potentes, como para cortar el metal.</i>
+
+37
+00:05:38,590 --> 00:05:41,161
+<i>Sólo las tribus nativas
+conocidas como los Fremen,</i>
+
+38
+00:05:41,261 --> 00:05:44,141
+<i>se han adaptado lo suficientemente
+bien, como para sobrevivir.</i>
+
+39
+00:05:45,010 --> 00:05:49,070
+<i>Prefiriendo habitar las regiones
+más remotas de Arrakis.</i>
+
+40
+00:05:49,170 --> 00:05:52,641
+<i>Los Fremen comparten el desierto profundo,
+con los gusanos de arena gigantes...</i>
+
+41
+00:05:52,790 --> 00:05:55,730
+<i>conocidos por los Fremen,
+como los Shai-Hulud.</i>
+
+42
+00:05:55,830 --> 00:06:01,070
+<i>La larga exposición a las especias, ha dado
+a la tribu sus característicos ojos azules,</i>
+
+43
+00:06:01,170 --> 00:06:03,230
+<i>los ojos del Ibad.</i>
+
+44
+00:06:03,330 --> 00:06:05,830
+<i>Poco más se sabe de los Fremen,</i>
+
+45
+00:06:05,930 --> 00:06:08,961
+<i>excepto que son peligrosos
+y poco fiables.</i>
+
+46
+00:06:10,290 --> 00:06:11,620
+<i>Los ataques de los Fremen hacen que...</i>
+
+47
+00:06:11,720 --> 00:06:14,701
+<i>la recolección de especias,
+sea extremadamente peligrosa.</i>
+
+48
+00:06:14,950 --> 00:06:18,230
+<i>Para los Fremen, la especia
+es el alucinógeno sagrado,</i>
+
+49
+00:06:18,330 --> 00:06:21,961
+<i>que preserva la vida y aporta
+enormes beneficios para la salud.</i>
+
+50
+00:06:22,970 --> 00:06:27,470
+<i>Para el Imperio, la especia es utilizada
+por los navegantes del Gremio Espacial,</i>
+
+51
+00:06:27,570 --> 00:06:30,281
+<i>para encontrar caminos
+seguros entre las estrellas.</i>
+
+52
+00:06:30,530 --> 00:06:34,490
+<i>Sin especia, el viaje
+interestelar sería imposible,</i>
+
+53
+00:06:34,590 --> 00:06:38,961
+<i>haciendo que sea, por mucho,
+la sustancia más valiosa del Universo.</i>
+
+54
+00:07:26,530 --> 00:07:28,590
+Sonríe, Gurney.
+
+55
+00:07:28,690 --> 00:07:30,641
+Estoy sonriendo.
+
+56
+00:07:31,510 --> 00:07:35,645
+¿Cuánto les costó viajar
+hasta aquí, para este trámite?
+
+57
+00:07:35,745 --> 00:07:41,141
+Tres navegantes del Gremio y un total de
+1.460.062 solaris para el viaje de ida y vuelta.
+
+58
+00:07:55,750 --> 00:07:58,870
+Por la gracia de Shaddam IV
+de La Casa Corrino,
+
+59
+00:07:58,970 --> 00:08:03,521
+ascendido al Trono del León de Oro del
+Emperador Padishah, del Universo Conocido,
+
+60
+00:08:03,770 --> 00:08:06,961
+me presento ante ustedes
+como el Heraldo del Cambio.
+
+61
+00:08:07,830 --> 00:08:10,670
+Somos atestiguados por los
+miembros de la Corte Imperial,
+
+62
+00:08:10,770 --> 00:08:16,841
+representantes del Gremio Espacial,
+y una hermana de la Bene Gesserit.
+
+63
+00:08:17,530 --> 00:08:19,681
+El Emperador ha hablado:
+
+64
+00:08:21,170 --> 00:08:25,571
+La Casa Atreides tomará
+inmediatamente el control de Arrakis
+
+65
+00:08:25,870 --> 00:08:28,981
+y servirá como su administradora.
+
+66
+00:08:30,430 --> 00:08:32,781
+¿Lo aceptan?
+
+67
+00:08:41,110 --> 00:08:43,141
+Somos La Casa Atreides.
+
+68
+00:08:43,990 --> 00:08:47,781
+No hay llamado al que no respondamos.
+No hay fe que traicionemos.
+
+69
+00:08:48,410 --> 00:08:52,481
+El Emperador nos pide que
+llevemos la paz a Arrakis.
+
+70
+00:08:53,050 --> 00:08:55,510
+Y La Casa Atreides acepta.
+
+71
+00:08:55,610 --> 00:09:03,321
+¡Atreides!
+
+72
+00:09:10,790 --> 00:09:12,861
+Su sello.
+
+73
+00:09:46,590 --> 00:09:47,961
+Entonces, ¿está hecho?
+
+74
+00:09:49,570 --> 00:09:52,281
+Ya está hecho.
+
+75
+00:10:16,531 --> 00:10:19,351
+- ¿Cómo estuvo?
+- Los estabilizadores están demasiado flojos.
+
