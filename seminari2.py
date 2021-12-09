@@ -73,25 +73,4 @@ class semi():
 		f.write(response.content)
 		'''
 		subprocess.call(['ffmpeg', '-i', 'BBB.mp4', '-f', 'srt', '-i', 'Dune_subtitlesNOU.srt', '-map', "0:0", '-map', "0:1", '-map', "1:0", "-c:v", 'copy', "-c:a", 'copy', "-c:s", "mov_text", 'BBBprovs.mp4'])	
-'''
-n = 1
-classe = semi
-while n != 0:
-    print("quin exercici vols veure?")
-    n = input()
 
-    if n == "1":
-        classe.exercici1()
-
-    elif n == "2":
-        classe.exercici2()
-
-    elif n == "3":
-        classe.exercici3()
-
-    elif n == "4":
-        classe.exercici4()
-    
-    else:
-    	print("t'has equivocat")
-'''
